@@ -3,6 +3,7 @@
 ```bash
 export GOPATH=$HOME/go
 export PATH=$PATH:$GOPATH/bin
+source ~/.zshrc
 sudo go get -u github.com/kardianos/govendor
 ```
 
